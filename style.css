@@ -1,0 +1,29 @@
+.hero_content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+  color: #fff;
+  padding: 5vw;
+  height: 100vh;
+}
+
+.circlebtn_cursor {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  color: #fff;
+  cursor: pointer;
+}
+.circlebtn_cursor :hover.circlebtn-cursor__text {
+  color: #FFC300;
+}
+.circlebtn_cursor .circlebtn-cursor__text {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.circlebtn_cursor .circlebtn-cursor__text .char {
+  position: absolute;
+}
