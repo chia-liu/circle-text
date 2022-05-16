@@ -11,4 +11,3 @@ check here [ Live Site ](https://chia-liu.github.io/circle-text/)
 ### Built with
 - using GSAP.js and splitting
 
-// https://splitting.js.org/guide.html#data-splitting-attribute
