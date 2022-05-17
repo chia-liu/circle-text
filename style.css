@@ -27,6 +27,24 @@
 .circlebtn_cursor .circlebtn-cursor__text .char {
   position: absolute;
 }
+/* footer */
+.mr-5{
+	margin-right: 0.5em;
+}
+.ml-5{
+	margin-left: 0.5em;
+}
+.btn{
+	padding: 5px 25px;
+  color: #fff;
+	border: 0.5px solid #fff;
+	border-radius: 5px;
+	transition: .3s ease-in-out;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #2EC4B6;
+}
 .footer{
 	position: absolute;
 	bottom: 0;
@@ -35,3 +53,4 @@
 	padding: 1em;
 	text-align: center;
 	color: #fff;
+}
