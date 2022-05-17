@@ -27,3 +27,11 @@
 .circlebtn_cursor .circlebtn-cursor__text .char {
   position: absolute;
 }
+.footer{
+	position: absolute;
+	bottom: 0;
+	height: 56px;
+	width: 100%;
+	padding: 1em;
+	text-align: center;
+	color: #fff;
